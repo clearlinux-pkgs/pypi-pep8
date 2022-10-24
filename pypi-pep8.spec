@@ -4,7 +4,7 @@
 #
 Name     : pypi-pep8
 Version  : 1.7.1
-Release  : 73
+Release  : 74
 URL      : https://files.pythonhosted.org/packages/01/a0/64ba19519db49e4094d82599412a9660dee8c26a7addbbb1bf17927ceefe/pep8-1.7.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/01/a0/64ba19519db49e4094d82599412a9660dee8c26a7addbbb1bf17927ceefe/pep8-1.7.1.tar.gz
 Summary  : Python style guide checker
